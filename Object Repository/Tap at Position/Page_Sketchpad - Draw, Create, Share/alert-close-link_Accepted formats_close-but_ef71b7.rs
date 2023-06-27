@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert-close-link_Accepted formats_close-but_ef71b7</name>
+   <tag></tag>
+   <elementGuidId>4c984ffb-c948-49fb-97c7-330d10cae8b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//alert-close-link</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>alert-close-link.close-button.sketch-icon-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>alert-close-link</value>
+      <webElementGuid>08f4bfd8-1094-4b87-bc24-d5d9d32e179e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-button sketch-icon-close</value>
+      <webElementGuid>9f8de8ca-9211-4258-845b-09875df05489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sketch-api&quot;]/dialog[@class=&quot;alertify alertify-alert welcome-message&quot;]/alertify-dialog[1]/p[@class=&quot;alertify-message&quot;]/div[@class=&quot;welcome-message-content&quot;]/alert-close-link[@class=&quot;close-button sketch-icon-close&quot;]</value>
+      <webElementGuid>c41d4da4-3b15-4a10-9393-c1d30a6965ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//alert-close-link</value>
+      <webElementGuid>5c4296f3-a8a7-4f16-be80-cbf008f4093c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

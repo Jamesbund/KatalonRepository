@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sketch-doc-scrollarea_Drop files here_ps ps_47b0ba</name>
+   <tag></tag>
+   <elementGuidId>56da00d2-accd-4a0e-87be-03c8fcb97a4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//sketch-doc-scrollarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sketch-doc-scrollarea.ps.ps--active-x.ps--active-y</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sketch-doc-scrollarea</value>
+      <webElementGuid>f77e4894-b243-4abe-8712-260a25b4350d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps ps--active-x ps--active-y</value>
+      <webElementGuid>73ea22fd-1f5b-46a0-8847-1859fd2714fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sketch-api&quot;]/sketchpad[@class=&quot;no-animate&quot;]/sketchpad-viewport[@class=&quot;sketch-viewport sketch-api&quot;]/sketch-doc[1]/sketch-doc-scrollarea[@class=&quot;ps ps--active-x ps--active-y&quot;]</value>
+      <webElementGuid>1709494b-cab2-4960-aa26-3f2edfa11a6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sketch-doc-scrollarea</value>
+      <webElementGuid>1b4addb6-73ba-4cf2-b3f9-02d468a005c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

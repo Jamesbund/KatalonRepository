@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sketch-input-content_33px</name>
+   <tag></tag>
+   <elementGuidId>82b209c8-024e-405b-86db-0326ca28f24d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Line Width'])[1]/following::sketch-input-content[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sketch-input.value0.sketch-input > sketch-input-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sketch-input-content</value>
+      <webElementGuid>50756a02-7f18-4eb7-8599-ae4f31a1a84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7c6fbf37-dc57-47c0-94a1-9ce05fbc617f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>65994bed-bb5e-4e82-9bbd-d17dabdaf786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>decimal</value>
+      <webElementGuid>af777c46-e8f2-4175-9fa3-9240e5e15d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>33px</value>
+      <webElementGuid>a4164536-ff52-4a9a-b943-d0f60428fa9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sketch-api&quot;]/sketch-popout[@class=&quot;sketch-style-popout&quot;]/sketch-popout-content[1]/sketch-toolconfig[1]/sketch-label[@class=&quot;sketch-RangeModule sketch-horizontal&quot;]/sketch-input-container[1]/sketch-input[@class=&quot;value0 sketch-input&quot;]/sketch-input-content[1]</value>
+      <webElementGuid>55dd8f2b-5061-44fe-9b24-af441301f055</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Line Width'])[1]/following::sketch-input-content[1]</value>
+      <webElementGuid>bb1d79d0-ef0d-452c-95c8-42dde460956b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outline'])[1]/following::sketch-input-content[2]</value>
+      <webElementGuid>c1117514-2479-4c2d-8b85-6f903bb5adc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='33px']/parent::*</value>
+      <webElementGuid>bafedee4-5112-4bed-a518-95f5c548326b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sketch-input-container/sketch-input/sketch-input-content</value>
+      <webElementGuid>98b8227a-7192-4e4c-a17d-176722ad3bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//sketch-input-content[(text() = '33px' or . = '33px')]</value>
+      <webElementGuid>b679385d-3766-484b-a7d5-ddbe8dd59769</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

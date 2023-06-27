@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sketch-rangethumb</name>
+   <tag></tag>
+   <elementGuidId>689fbd47-646e-42c5-9d88-4626f69a8e9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//sketch-rangethumb</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sketch-rangethumb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sketch-rangethumb</value>
+      <webElementGuid>a7d0fb69-27e9-4e1c-b5b2-0d5648577870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a1ec536f-b162-4717-b27d-cfa6ec19e05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sketch-api&quot;]/sketch-popout[@class=&quot;sketch-style-popout&quot;]/sketch-popout-content[1]/sketch-toolconfig[1]/sketch-label[@class=&quot;sketch-RangeModule sketch-horizontal&quot;]/sketch-range[@class=&quot;animate&quot;]/sketch-rangethumb[1]</value>
+      <webElementGuid>5005c33d-9f86-4c3f-9252-af0ad46616a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sketch-rangethumb</value>
+      <webElementGuid>f2775a0a-dc84-4a82-85fc-ac96700e5084</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
